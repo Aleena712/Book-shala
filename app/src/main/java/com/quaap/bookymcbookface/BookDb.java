@@ -1,4 +1,4 @@
-package com.Aleena712.bookshala;
+package com.quaap.bookymcbookface;
 
 import android.content.ContentValues;
 import android.content.Context;
