@@ -1,4 +1,4 @@
-package com.group20.bookshala;
+package com.quaap.bookshala;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
