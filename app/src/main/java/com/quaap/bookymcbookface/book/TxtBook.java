@@ -1,4 +1,4 @@
-package com.quaap.bookshala.book;
+package com.Aleena712.bookshala.book;
 
 import android.content.Context;
 import android.net.Uri;
