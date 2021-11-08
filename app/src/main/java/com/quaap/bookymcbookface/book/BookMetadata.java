@@ -1,4 +1,4 @@
-package com.Aleena712.bookshala.book;
+package com.quaap.bookymcbookface.book;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
