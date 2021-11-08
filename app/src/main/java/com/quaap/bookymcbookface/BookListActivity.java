@@ -1,4 +1,4 @@
-package com.quaap.bookshala;
+package com.Aleena712.bookshala;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -48,8 +48,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.quaap.bookymcbookface.book.Book;
-import com.quaap.bookymcbookface.book.BookMetadata;
+import com.Aleena712.bookshala.book.Book;
+import com.Aleena712.bookshala.book.BookMetadata;
 
 
 
