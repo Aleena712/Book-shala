@@ -1,4 +1,4 @@
-package com.group20.bookshala;
+package com.quaap.bookshala;
 
 import android.Manifest;
 import android.app.AlertDialog;
