@@ -1,4 +1,4 @@
-package com.Aleena712.bookshala.book;
+package com.quaap.bookymcbookface.book;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -15,7 +15,7 @@ import java.util.Map;
 import java.util.zip.CRC32;
 import java.util.zip.Checksum;
 
-import com.Aleena712.bookshala.FsTools;
+import com.quaap.bookymcbookface.FsTools;
 
 
 
