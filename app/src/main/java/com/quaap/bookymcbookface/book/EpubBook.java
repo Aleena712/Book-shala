@@ -1,4 +1,4 @@
-package com.quaap.bookshala.book;
+package com.Aleena712.bookshala.book;
 
 
 import android.content.Context;
@@ -40,7 +40,7 @@ import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathExpressionException;
 import javax.xml.xpath.XPathFactory;
 
-import com.quaap.bookymcbookface.Zip;
+import com.Aleena712.bookshala.Zip;
 
 
 
