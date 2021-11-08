@@ -1,4 +1,4 @@
-package com.Aleena712.bookshala;
+package com.quaap.bookymcbookface;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -48,8 +48,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.Aleena712.bookshala.book.Book;
-import com.Aleena712.bookshala.book.BookMetadata;
+import com.quaap.bookymcbookface.book.Book;
+import com.quaap.bookymcbookface.book.BookMetadata;
 
 
 
@@ -65,9 +65,9 @@ public class BookListActivity extends AppCompatActivity {
     private static final int STARTOPEN = 2;
     private static final int STARTALL = 3;
 
-    private static final String ACTION_SHOW_OPEN = "com.group20.bookshala.SHOW_OPEN_BOOKS";
-    private static final String ACTION_SHOW_UNREAD = "com.group20.bookshala.SHOW_UNREAD_BOOKS";
-    public static final String ACTION_SHOW_LAST_STATUS = "com.group20.bookshala.SHOW_LAST_STATUS";
+    private static final String ACTION_SHOW_OPEN = "com.quaap.bookymcbookface.SHOW_OPEN_BOOKS";
+    private static final String ACTION_SHOW_UNREAD = "com.quaap.bookymcbookface.SHOW_UNREAD_BOOKS";
+    public static final String ACTION_SHOW_LAST_STATUS = "com.quaap.bookymcbookface.SHOW_LAST_STATUS";
 
     private SharedPreferences data;
 
