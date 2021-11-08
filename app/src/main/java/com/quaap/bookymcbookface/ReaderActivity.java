@@ -1,4 +1,4 @@
-package com.group20.bookshala;
+package com.quaap.bookshala;
 
 import android.annotation.SuppressLint;
 import android.app.ActionBar;
